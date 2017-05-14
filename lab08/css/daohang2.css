@@ -1,0 +1,48 @@
+*{ 
+ 	padding: 0px; 
+ 	margin: 20px; 
+} 
+.qi{
+	background-image: url(../image/bj.png);
+	background-repeat:repeat-y;
+	background-size: 250px 400px;
+	width: 270px;
+	height: 400px;
+}
+.wi{
+	background-image: url(../image/header.png);
+	background-size: 210px 70px;
+	width: 210px;
+	height: 70px;
+}
+.ei{
+	background-image: url(../image/lvbiaoti.png);
+	background-size: 210px 35px;
+	width: 210px;
+	height: 35px; 
+
+}
+.ei a{
+	color: white;
+}
+a{
+	align-content: center;
+	text-decoration: none;
+	vertical-align:middle;
+	font-family: 微软雅黑;
+	color:gray;
+    font-weight: formal;
+    font-size: 16px;
+}
+.ri{
+	background-image: url(../image/baibiaoti[5573].png);
+	background-repeat:no-repeat;
+	background-size: 210px 35px;
+	width: 210px;
+	height: 35px; 
+	vertical-align:middle;
+}
+.qi ul{
+	list-style-type: none;
+	vertical-align:middle;
+}
